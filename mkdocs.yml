@@ -1,0 +1,14 @@
+site_name: Ceres Doc
+nav:
+    - Home: index.md
+    - Examples: examples.md
+    - Syntax: syntax.md
+    - Functions: functions.md
+    - Commands: commands.md
+    - Classes: classes.md
+    - Statements: statements.md
+    - Operators: operators.md
+    - Directives: directives.md 
+    - About: about.md
+theme:
+    name: readthedocs
